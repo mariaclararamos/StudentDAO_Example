@@ -4,8 +4,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import br.dev.joaquim.dao.H2StudentDAO;
-import br.dev.joaquim.ihm.StudentIHM;
+import br.dev.joaquim.StudentApp.dao.H2StudentDAO;
+import br.dev.joaquim.StudentApp.ihm.StudentIHM;
 
 @SpringBootApplication
 public class StudentAppApplication implements CommandLineRunner {

@@ -1,4 +1,4 @@
-package br.dev.joaquim.dao;
+package br.dev.joaquim.StudentApp.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.dev.joaquim.entities.Student;
+import br.dev.joaquim.StudentApp.entities.Student;
 
 public class H2StudentDAO implements StudentDAO {
 

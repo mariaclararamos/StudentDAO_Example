@@ -1,8 +1,8 @@
-package br.dev.joaquim.dao;
+package br.dev.joaquim.StudentApp.dao;
 
 import java.util.List;
 
-import br.dev.joaquim.entities.Student;
+import br.dev.joaquim.StudentApp.entities.Student;
 
 public interface StudentDAO {
   public boolean create(Student student);

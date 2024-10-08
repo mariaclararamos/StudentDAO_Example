@@ -1,8 +1,9 @@
-package br.dev.joaquim.ihm;
+package br.dev.joaquim.StudentApp.ihm;
 
 import java.util.Scanner;
-import br.dev.joaquim.dao.StudentDAO;
-import br.dev.joaquim.entities.Student;
+
+import br.dev.joaquim.StudentApp.dao.StudentDAO;
+import br.dev.joaquim.StudentApp.entities.Student;
 
 public class StudentIHM {
 

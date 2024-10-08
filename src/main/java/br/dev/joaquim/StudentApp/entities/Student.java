@@ -1,4 +1,4 @@
-package br.dev.joaquim.entities;
+package br.dev.joaquim.StudentApp.entities;
 
 public class Student {
   private int ra;
