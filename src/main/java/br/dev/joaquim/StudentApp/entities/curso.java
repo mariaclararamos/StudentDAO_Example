@@ -8,7 +8,7 @@ public class curso {
   }
 
   public Student(int cod_cur, String materia) {
-    this.cod_cur
+    this.cod_cur = cod_cur;
     this.materia = materia;
   }
 
