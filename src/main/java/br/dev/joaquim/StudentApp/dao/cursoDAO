@@ -7,5 +7,5 @@ public interface cursoDAO {
 
   public boolean update(curso curso);
 
-  public boolean delete(int ra);
+  public boolean delete(int cod_curso);
 }
